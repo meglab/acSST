@@ -2,7 +2,7 @@ FIGURE 1 (C)
 
 Behavioral data was extracted from raw data using MATLAB and analyzed using JASP.
 
-Bayesian statistics that analyzed the prediction of SSRT, was run in a jupyter notebook: bayesianStatistics/MultiRegressionSSRT.ipynb
+Bayesian statistics that analyzed the prediction of SSRT, was run in a jupyter notebook: bayesianMultipleRegression/MultiRegressionSSRT.ipynb
 
 
 

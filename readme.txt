@@ -42,6 +42,9 @@ Broad-band virtual channel data (time courses) for the seven sources identified 
 (C) Run TFRStatsConditionContrast.m for statistical contrast
 	Output: FreqStats_sSTOP_vs_cAC_[SourceName]_2-44Hz_0.00_0.50s.mat
 
+(A-D) Run TFRCreatePlots.m to create the whole figure. 
+To average over beta-band power (also done by this script), GrandAverage_2-44Hz_sSTOP_zValues.mat and GrandAverage_2-44Hz_cAC_zValues.mat are loaded.
+
 Onset latency test between rIFG and preSMA is run by TestOnsetLatencies.m (not shown in the figure, but stated in the text). Loads LatencyAndBetaPowerValues_sSTOP.mat.
 
 

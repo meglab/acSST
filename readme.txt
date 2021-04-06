@@ -1,3 +1,11 @@
+Code refers to the figures of the eLife publication 
+
+"Right inferior frontal gyrus implements motor inhibitory control via beta-band oscillations in humans"
+Schaum et al., 2021
+
+DOI: 10.7554/eLife.61679
+
+
 FIGURE 1 (C)
 
 Behavioral data was extracted from raw data using MATLAB and analyzed using JASP.
